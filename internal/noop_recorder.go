@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/goclarum/clarum/json/recorder"
+	"github.com/go-clarum/clarum-json/recorder"
 	"reflect"
 )
 

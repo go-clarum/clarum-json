@@ -2,7 +2,7 @@ package recorder
 
 import (
 	"fmt"
-	"github.com/goclarum/clarum/json/internal/path"
+	"github.com/go-clarum/clarum-json/internal/path"
 	"reflect"
 	"strings"
 )

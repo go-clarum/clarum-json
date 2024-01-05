@@ -1,7 +1,7 @@
 package comparator
 
 import (
-	"github.com/goclarum/clarum/json/internal"
+	"github.com/go-clarum/clarum-json/internal"
 	"testing"
 )
 

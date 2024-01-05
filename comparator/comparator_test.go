@@ -2,7 +2,7 @@ package comparator
 
 import (
 	"fmt"
-	"github.com/goclarum/clarum/json/recorder"
+	"github.com/go-clarum/clarum-json/recorder"
 	"strings"
 	"testing"
 )

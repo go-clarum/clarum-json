@@ -1,8 +1,8 @@
 package comparator
 
 import (
-	"github.com/goclarum/clarum/json/internal"
-	"github.com/goclarum/clarum/json/recorder"
+	"github.com/go-clarum/clarum-json/internal"
+	"github.com/go-clarum/clarum-json/recorder"
 	"log/slog"
 )
 
